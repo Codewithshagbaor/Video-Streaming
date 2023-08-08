@@ -72,5 +72,3 @@ Contributions are welcome! If you find any issues or have suggestions for improv
 
 This project is licensed under the [MIT License](LICENSE).
 ```
-
-Replace `your-username` with your GitHub username and make sure to save this content in a file named `README.md` in the root directory of your project. This single markdown will provide comprehensive information about your project on GitHub.
